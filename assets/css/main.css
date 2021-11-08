@@ -440,7 +440,7 @@ footer a:hover { color: #AA8D39; }
 .bibliography { margin-bottom: 50px; margin-top: 20px; list-style-type: none; }
 .bibliography li { margin: 10px 0; position: relative; }
 .bibliography li span { display: block; }
-.bibliography li .title { font-weight: normal; }
+.bibliography li .title { font-weight: bolder; }
 .bibliography li .author a { border-bottom: 1px dashed #0E0F45; }
 .bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
 .bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
