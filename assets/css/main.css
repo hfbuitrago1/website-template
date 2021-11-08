@@ -59,7 +59,7 @@ p, dl, ol, ul { font-size: 1rem; margin-top: 0.3rem; margin-bottom: 1rem; }
 
 ol, ul { padding-left: 0rem; }
 
-pre, code, samp { font-family: "Source Code Pro", Consolas, monospace; font-size: inherit; }
+pre, code, samp { font-family: "Roboto", sans-serif; font-size: inherit; }
 
 pre { margin-top: 0; margin-bottom: 1rem; overflow-x: scroll; }
 
