@@ -364,7 +364,7 @@ footer a:hover { color: #AA8D39; }
 
 .center { text-align: center; }
 
-.post-header { margin-bottom: 40px; }
+.post-header { margin-bottom: 20px; }
 
 .post-list { margin: 0; padding: 0; list-style: none; }
 .post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 2rem; padding-top: 2rem; }
