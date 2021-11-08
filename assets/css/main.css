@@ -369,7 +369,7 @@ footer a:hover { color: #AA8D39; }
 .post-list { margin: 0; padding: 0; list-style: none; }
 .post-list > li { border-bottom: 1px solid #ccc; padding-bottom: 2rem; padding-top: 2rem; }
 
-.post-title { font-size: 35px; letter-spacing: -1px; line-height: 1; margin-bottom: 10px; margin-top: 10px; }
+.post-title { font-size: 37px; letter-spacing: -1px; line-height: 1; margin-bottom: 10px; margin-top: 8px; }
 
 .post-content h2 { font-size: 42px; }
 .post-content h3 { font-size: 30px; }
