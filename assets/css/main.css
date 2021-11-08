@@ -495,7 +495,7 @@ figcaption { font-size: 0.875rem; }
 .gist .lines { width: 100%; }
 
 a { color: #424242; text-decoration: none; }
-a:hover { color: #0E0F45; text-decoration: none;}
+a:hover { color: #000000; text-decoration: none;}
 
 article a, .news a { color: #0E0F45; font-weight: 100; }
 article a:hover, .news a:hover { text-decoration: underline; }
