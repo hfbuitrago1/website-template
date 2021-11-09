@@ -438,9 +438,9 @@ footer a:hover { color: #AA8D39; }
 .experience li { margin: 10px 0; position: relative; }
 .experience li span { display: block}
 .experience li .course { font-weight: bolder; }
-.experience li .year a { border-bottom: 1px dashed #0E0F45; }
-.experience li .year a:hover { border-bottom-style: solid; text-decoration: none; }
-.experience li .year > em { border-bottom: 1px solid; font-style: normal; }
+.experience li .date a { border-bottom: 1px dashed #0E0F45; }
+.experience li .date a:hover { border-bottom-style: solid; text-decoration: none; }
+.experience li .date > em { border-bottom: 1px solid; font-style: normal; }
 .experience li .summary { font-weight: inherit; }
 
 .star { color: #0E0F45; font-style: normal; }
