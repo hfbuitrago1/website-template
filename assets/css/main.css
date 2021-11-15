@@ -501,7 +501,6 @@ article a, .news a { color: #0E0F45; font-weight: 100; }
 article a:hover, .news a:hover { text-decoration: underline; }
 
 .social a { color: #424242; }
-.social a:hover { color: #0E0F45; }
 
 .measure { margin: 0 auto; max-width: 42rem; }
 
