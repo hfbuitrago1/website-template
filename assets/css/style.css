@@ -272,7 +272,7 @@
      font-size:20px 
 }
  .post-meta{
-     color:#828282;
+     color:#aaa;
      font-size:.875rem;
      margin-bottom:0 
 }
@@ -281,7 +281,7 @@
      font-size:42px 
 }
  .profile img{
-     box-shadow:0 0 0 #828282;
+     box-shadow:0 0 0 #aaa;
      width:100%;
      border-radius:.25em 
 }
