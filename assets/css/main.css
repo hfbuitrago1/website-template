@@ -377,18 +377,3 @@
  .bibliography li .title {
      font-weight: bolder;
 }
- .experience {
-     margin-bottom: 20px;
-     margin-top: 10px;
-     list-style-type: none;
-}
- .experience li {
-     margin: 10px 0;
-     position: relative;
-}
- .experience li span {
-     display: block
-}
- .experience li .course {
-     font-weight: bolder;
-}
