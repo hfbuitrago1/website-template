@@ -39,7 +39,8 @@
          font-size:20px 
     }
      .col{
-         padding:10px 
+         padding-left:25px;
+         padding-right:0px
     }
 }
  ::-moz-focus-inner{
