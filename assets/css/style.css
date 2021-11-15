@@ -205,7 +205,7 @@
 }
  .site-nav .page-link.current{
      font-weight:bolder;
-     color:#000 
+     color:#333 
 }
  .site-nav .page-link:not(:first-child){
      margin-left:10px 
