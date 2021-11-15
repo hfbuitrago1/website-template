@@ -283,7 +283,7 @@
  .profile img{
      box-shadow:0 0 0 #828282;
      width:100%;
-     border-radius:.25em
+     border-radius:.25em 
 }
  .address{
      font-family:monospace 
