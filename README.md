@@ -1,3 +1,3 @@
-# Felipe Buitrago Rubiano
+# Felipe Buitrago
 
-This is the repository of my website.
+This is the repository of my personal website.
