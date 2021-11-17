@@ -1,3 +1,3 @@
-# Website
+# Felipe Buitrago
 
-This is the repository of my personal website.
+This is the repository of my website.
